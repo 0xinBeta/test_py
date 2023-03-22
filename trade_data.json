@@ -1,0 +1,122 @@
+[
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-20 01:42:03",
+        "close_time": "2023-03-20 02:03:05",
+        "PnL": 42.99
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-20 02:39:03",
+        "close_time": "2023-03-20 03:37:06",
+        "PnL": 27.15
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-20 04:12:03",
+        "close_time": "2023-03-20 04:23:24",
+        "PnL": 30.89
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-20 04:09:02",
+        "close_time": "2023-03-20 04:25:05",
+        "PnL": 35.78
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 04:57:03",
+        "close_time": "2023-03-21 05:04:01",
+        "PnL": -8.58
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 06:33:03",
+        "close_time": "2023-03-21 06:42:14",
+        "PnL": 16.14
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 06:57:05",
+        "close_time": "2023-03-21 06:58:11",
+        "PnL": -6.23
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 07:03:04",
+        "close_time": "2023-03-21 07:06:03",
+        "PnL": 15.79
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 07:03:04",
+        "close_time": "2023-03-21 07:39:38",
+        "PnL": -23.13
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 07:54:03",
+        "close_time": "2023-03-21 08:07:11",
+        "PnL": 15.31
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 07:24:03",
+        "close_time": "2023-03-21 08:07:47",
+        "PnL": 26.56
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 08:39:03",
+        "close_time": "2023-03-21 09:31:37",
+        "PnL": -37.05
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 08:10:50",
+        "close_time": "2023-03-21 09:51:06",
+        "PnL": -50.9
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 12:03:05",
+        "close_time": "2023-03-21 13:16:01",
+        "PnL": 17.87
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 12:03:02",
+        "close_time": "2023-03-21 13:16:23",
+        "PnL": 18.59
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 13:27:05",
+        "close_time": "2023-03-21 13:33:44",
+        "PnL": 18.28
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 14:21:03",
+        "close_time": "2023-03-21 15:00:49",
+        "PnL": 47.3
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 16:30:04",
+        "close_time": "2023-03-21 16:33:29",
+        "PnL": 19.92
+    },
+    {
+        "symbol": "BTCUSDT",
+        "open_time": "2023-03-21 16:51:07",
+        "close_time": "2023-03-21 18:01:06",
+        "PnL": -70.77
+    },
+    {
+        "symbol": "ETHUSDT",
+        "open_time": "2023-03-21 15:39:04",
+        "close_time": "2023-03-21 19:01:04",
+        "PnL": -76.14
+    }
+]
